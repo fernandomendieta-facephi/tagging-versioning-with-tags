@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.8.0](https://github.com/fernandomendieta-facephi/tagging-versioning-with-tags/compare/v1.7.2...v1.8.0) (2025-07-23)
+
+
+### Features
+
+* **docs:** new funccionality ([3e77e60](https://github.com/fernandomendieta-facephi/tagging-versioning-with-tags/commit/3e77e6036997e7d074c1342d589616038d932bb1))
+* **docs:** new funccionality ([1d15af4](https://github.com/fernandomendieta-facephi/tagging-versioning-with-tags/commit/1d15af41db8b5e62b26fc9556d8be7fa814318b2))
+
 ## [1.7.2](https://github.com/fernandomendieta-facephi/tagging-versioning-with-tags/compare/v1.7.1...v1.7.2) (2025-07-23)
 
 

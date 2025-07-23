@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.7.1](https://github.com/fernandomendieta-facephi/tagging-versioning-with-tags/compare/v1.7.0...v1.7.1) (2025-07-23)
+
+
+### Bug Fixes
+
+* **docs:** small fix ([6f5c4e7](https://github.com/fernandomendieta-facephi/tagging-versioning-with-tags/commit/6f5c4e723736ca5368cd2f6d9f7c8fc9e86f1bf2))
+* **docs:** small fix ([e6d1529](https://github.com/fernandomendieta-facephi/tagging-versioning-with-tags/commit/e6d15295f348b7b85f075dbdc5c7d3ad8cba4939))
+
 ## [1.7.0](https://github.com/fernandomendieta-facephi/tagging-versioning-with-tags/compare/v1.6.0...v1.7.0) (2025-07-23)
 
 
